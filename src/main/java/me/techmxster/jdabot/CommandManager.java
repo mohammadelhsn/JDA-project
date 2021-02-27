@@ -2,8 +2,7 @@ package me.techmxster.jdabot;
 
 import me.techmxster.jdabot.command.CommandContext;
 import me.techmxster.jdabot.command.ICommand;
-import me.techmxster.jdabot.command.commands.HelpCommand;
-import me.techmxster.jdabot.command.commands.PingCommand;
+import me.techmxster.jdabot.command.commands.*;
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
 
 import javax.annotation.Nullable;
@@ -18,6 +17,12 @@ public class CommandManager {
     public CommandManager() {
         addCommand(new PingCommand());
         addCommand(new HelpCommand(this));
+        addCommand(new PasteCommand());
+        addCommand(new HasteCommand());
+        addCommand(new KickCommand());
+        addCommand(new MemeCommand());
+        addCommand(new JokeCommand());
+        addCommand(new InstagramCommand());
     }
 
     private void addCommand(ICommand cmd) {
