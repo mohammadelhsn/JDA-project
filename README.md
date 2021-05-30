@@ -4,7 +4,7 @@ A [Discord](https://discord.com) bot using [JDA](https://github.com/DV8FromTheWo
 
 ## Invite the bot
 
-~~[Invite me!]~~
+~~Invite me!~~
 
 ## Errors
 
