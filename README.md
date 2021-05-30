@@ -4,8 +4,8 @@ A [Discord](https://discord.com) bot using [JDA](https://github.com/DV8FromTheWo
 
 ## Invite the bot
 
-[Invite me!](https://discordapp.com/oauth2/authorize?client_id=690981937782980680&scope=bot&permissions=8)
+~~[Invite me!]~~
 
 ## Errors
 
-Contact me Tech!#0620 (398264990567628812)
+Contact me Tech!#4472 (398264990567628812)
