@@ -1,11 +1,24 @@
-# JDA-project
+# JDA-Project
 
-A [Discord](https://discord.com) bot using [JDA](https://github.com/DV8FromTheWorld/JDA) | Followed [this](https://www.youtube.com/watch?v=dOmyJhB_feM&list=PLWnw41ah3I4YxBetY8iCa-b9t1JwV2jsW) tutorial. This is mainly me experimenting with Java. I won't be updating this bot any further because my main languages are JS and TS
+A [Discord](https://discord.com) bot using [JDA](https://github.com/DV8FromTheWorld/JDA) | Followed [this](https://www.youtube.com/watch?v=dOmyJhB_feM&list=PLWnw41ah3I4YxBetY8iCa-b9t1JwV2jsW) tutorial.
 
-## Invite the bot
+> ⚠️ **Note**: This project is no longer being maintained. It was primarily created for learning and experimentation.
 
-~~Invite me!~~
+## Stack
 
-## Errors
+| Technology    | Icon                                                                       |
+| ------------- | -------------------------------------------------------------------------- |
+| Discord Bots  | ![Discord Bots](https://go-skill-icons.vercel.app/api/icons?i=discordbots) |
+| Gradle        | ![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=gradle)        |
+| Java          | ![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=java)              |
+| Intellij Idea | ![intellij Idea](https://go-skill-icons.vercel.app/api/icons?i=idea)       |
 
-Contact me Tech!#4472 (398264990567628812)
+## Features
+
+- Basic Command Handling
+- Custom Commands mixed with those from the tutorial
+- Built with modular structure for scalability
+
+## Status
+
+🚫 Archived – This project is no longer actively developed or maintained. You're welcome to explore, fork, or build upon it for your own projects.
